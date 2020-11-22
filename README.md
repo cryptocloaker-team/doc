@@ -29,7 +29,7 @@ Our design choice is to let you select the broad settings \( [location](cloaker/
 * It's always a trade-off between protection and click loss \( = bleed rate 🔥 \).
 * Cloakone use both server side detection 🌐\( ip, ua, headers \) and client side detection 👩‍💻\( a lot of data \)  
 * score &gt;=50 has both server-side and client-side checks activated.
-* choose score &lt; 50 if you want server-side check only.
+* choose score &lt;50 if you want server-side check only.
 
 {% embed url="https://airtable.com/shrIzrL1qG9km9eMv" %}
 
