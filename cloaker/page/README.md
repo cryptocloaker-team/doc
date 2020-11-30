@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/cleanshot-2020-09-08-at-16.06.19-2x.png)
 
-## What is it? 
+## What is it?
 
 1. name － give a name to your page
 2. preview － will automatically take a screenshot of your page once it's loaded

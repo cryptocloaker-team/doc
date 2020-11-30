@@ -29,8 +29,8 @@ Place these token in your lander, so we replace accordingly
 | name | token |
 | :--- | :--- |
 | offer url | \#OFFERLINK\# or \#OFFERURL\# |
-| offer name | \#OFFERNAME\# or \#OFFER\#  |
-| offer image url | \#OFFERIMAGE\#  |
+| offer name | \#OFFERNAME\# or \#OFFER\# |
+| offer image url | \#OFFERIMAGE\# |
 | offer image step1 url | \#STEP1\# or \#OFFERSTEP1\# |
 | offer image step2 url | \#STEP2\# or \#OFFERSTEP2\# |
 | offer image step3 url | \#STEP3\# or \#OFFERSTEP3\# |
@@ -56,7 +56,7 @@ You can use following token to pass metadata to your affiliate network or offer
 
 ## Passing parameter to your lander 📈
 
-You can use following tokens to pass parameter to your lander \( like if you are using your own tracker \) 
+You can use following tokens to pass parameter to your lander \( like if you are using your own tracker \)
 
 <table>
   <thead>
@@ -108,6 +108,4 @@ You can use following tokens to pass parameter to your lander \( like if you are
     </tr>
   </tbody>
 </table>
-
-
 

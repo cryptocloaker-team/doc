@@ -6,7 +6,7 @@ description: "Fire conversion data to Cloakone \U0001F973"
 
 {% api-method method="get" host="https://postback.cloakone.com" path="?clickid=XXX&value=0" %}
 {% api-method-summary %}
- Postback by default
+Postback by default
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -17,7 +17,7 @@ description: "Fire conversion data to Cloakone \U0001F973"
 {% api-method-request %}
 {% api-method-query-parameters %}
 {% api-method-parameter name="clickid" type="string" required=false %}
-clickid of visitor 
+clickid of visitor
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="value" type="number" required=false %}
@@ -32,7 +32,7 @@ payout value
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 OK {"clickid":"XXX","value":"01"}
 ```
 {% endapi-method-response-example %}
@@ -68,15 +68,11 @@ payout value
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 OK {"clickid":"XXX","value":"01"}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
-
-
 

@@ -1,8 +1,8 @@
-# 🚀 Get started
+# 🚀 Quick start
 
 First read this [intro](https://www.notion.so/How-this-new-technology-probably-make-Cloakone-com-the-best-cloaker-efb5711be5684cf085eeffcd55be9a26) about why Cloakone will take your campaign to the next level
 
-Cloakone works like a puzzle. Start with the [installation](./#installation), then [build your campaign](./#build-funnel) by combining these pieces : 
+Cloakone works like a puzzle. Start with the [installation](./#installation), then [build your campaign](./#build-funnel) by combining these pieces :
 
 {% hint style="success" %}
 1. [filter](./#filter)
@@ -20,9 +20,9 @@ Cloakone offer two ways to [install](cloaker/installation/)
 
 ![Cloakone DNS vs JS installation](.gitbook/assets/cleanshot-2020-08-09-at-08.16.15-2x.png)
 
-## Filter  🛡️ 
+## Filter  🛡️
 
-Our design choice is to let you select the broad settings \( [location](cloaker/filter-1/location.md) 🌍, [connection](cloaker/filter-1/connection.md) 🌐, [device](cloaker/filter-1/device.md) 🖥, [day-parting](cloaker/filter-1/scheduler.md) ⏱\) and we take care of the small tweaks with a [traffic score](cloaker/filter-1/score.md).  With the score 💯, you modulate the filter strength, and we adjust all the small settings accordingly. 🦾
+Our design choice is to let you select the broad settings \( [location](cloaker/filter-1/location.md) 🌍, [connection](cloaker/filter-1/connection.md) 🌐, [device](cloaker/filter-1/device.md) 🖥, [day-parting](cloaker/filter-1/scheduler.md) ⏱\) and we take care of the small tweaks with a [traffic score](cloaker/filter-1/score.md). With the score 💯, you modulate the filter strength, and we adjust all the small settings accordingly. 🦾
 
 **To give you the big picture,**
 
@@ -31,7 +31,7 @@ Our design choice is to let you select the broad settings \( [location](cloaker/
 * score &gt;=50 has both server-side and client-side checks activated.
 * choose score &lt;50 if you want server-side check only.
 
-{% embed url="https://airtable.com/shrIzrL1qG9km9eMv" %}
+{% embed url="https://airtable.com/shrIzrL1qG9km9eMv" caption="" %}
 
 {% hint style="info" %}
 **Our recommendation 🧙‍♂️**
@@ -63,7 +63,7 @@ To build a campaign, go into view funnel, and plug :
 
 Finally, we can put each piece together \( domain, page and filter \) to make our campaign.
 
-### Install 👌 
+### Install 👌
 
 You need to[ install cloakone globally on your DNS](cloaker/installation/dns/) \(cloudflare account\) first, then connect your domain. If you are using the [JS method](cloaker/installation/js/), place this code on your page \(3\). Click on [button test](cloaker/campaign/debug.md), to see if the installation is successful \(4\)
 
@@ -73,7 +73,7 @@ You need to[ install cloakone globally on your DNS](cloaker/installation/dns/) \
 
 ![](.gitbook/assets/cleanshot-2020-09-03-at-10.33.51-2x.png)
 
- **Campaign status :** 
+**Campaign status :**
 
 * **Active** – The campaign is active.
 * **Allow all** – All visitors are allowed. Will see money page.
@@ -85,9 +85,9 @@ You need to[ install cloakone globally on your DNS](cloaker/installation/dns/) \
 When your campaign is under review, select either **block all**, or **under review**. Both status are blocking traffic, but **under review** mode show the JS code and learn specifically about your campaign. Once it's approved, set status as **active** with a **high traffic score** \( &gt;=70 \) at the beginning. Then lower the score to optimize delivery.
 {% endhint %}
 
-### Pixel ⚓️ \( Pro version \) 
+### Pixel ⚓️ \( Pro version \)
 
-Cloakone has[ built-in integration](cloaker/campaign/pixel/) for firing pixel to your traffic source safely. It also has [built-in tracking](cloaker/campaign/tracker.md), can inject [backbutton](cloaker/campaign/options.md#backbutton) script, [heatmap](cloaker/campaign/options.md#heatmap) and [analytics](cloaker/campaign/options.md#tracking).  [Read more here](cloaker/campaign/)
+Cloakone has[ built-in integration](cloaker/campaign/pixel/) for firing pixel to your traffic source safely. It also has [built-in tracking](cloaker/campaign/tracker.md), can inject [backbutton](cloaker/campaign/options.md#backbutton) script, [heatmap](cloaker/campaign/options.md#heatmap) and [analytics](cloaker/campaign/options.md#tracking). [Read more here](cloaker/campaign/)
 
 ## 📊 stats
 

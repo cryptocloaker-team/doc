@@ -1,6 +1,6 @@
 # 🚀 Campaign
 
-##  Campaign
+## Campaign
 
 To build a campaign, go into view funnel, and plug :
 
@@ -11,12 +11,4 @@ To build a campaign, go into view funnel, and plug :
 * options : [tracking](tracker.md), backbutton, heatmap \( Pro version \) 
 
 ![](../../.gitbook/assets/cleanshot-2020-09-03-at-10.31.00-2x.png)
-
-
-
-### 
-
-
-
-
 

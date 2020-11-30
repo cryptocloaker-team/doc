@@ -9,7 +9,7 @@ description: how to set up the pixel on google ads
 * Create a conversion event
 * Make sure google glcid auto-tagging is on
 
-## Create a conversion 
+## Create a conversion
 
 ![](../../../.gitbook/assets/cleanshot-2020-09-03-at-10.11.28-2x.png)
 
@@ -21,13 +21,9 @@ description: how to set up the pixel on google ads
 
 ![](../../../.gitbook/assets/cleanshot-2020-09-03-at-10.05.33-2x.png)
 
-
-
 ## auto tagging gclid
 
 You need to activate google auto tagging gclid
 
 ![](../../../.gitbook/assets/cleanshot-2020-09-03-at-10.10.51-2x.png)
-
-
 

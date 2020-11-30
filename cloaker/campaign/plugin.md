@@ -6,7 +6,7 @@ description: plug third party tools easily on top of cloakone
 
 ## What is it? 🤔
 
-Cloakone let you easily add other tools on your funnels. Currently support : 
+Cloakone let you easily add other tools on your funnels. Currently support :
 
 * heatmap/recording — hotjar 🔥
 * analytics — Google analytics 📊
@@ -26,6 +26,4 @@ Go in table user, &gt; view plugin, and place your IDs there.
 ### Google analytics 📊
 
 * place your Google analytics ID, like `UA-XXXXX`
-
-
 

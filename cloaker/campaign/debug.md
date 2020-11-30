@@ -4,11 +4,11 @@ description: test and debug your campaign
 
 # 🧪 debug
 
-## Debug your campaign 🧪 
+## Debug your campaign 🧪
 
 ![](../../.gitbook/assets/cleanshot-2020-09-03-at-09.52.34-2x.png)
 
-**Buttons** 
+**Buttons**
 
 * **open** — will open your link normally
 * **bypass** — will open your link and bypass any filter, you will see money page
@@ -16,7 +16,7 @@ description: test and debug your campaign
 * **test** — will load your link and show you the cloaker response and reason your are being filtered. \( You can see if you place the code successfully \) 
 
 {% hint style="info" %}
-#### You can also switch mode manually, by adding a token in your link: 
+### You can also switch mode manually, by adding a token in your link:
 
 * **&yoursecretkey=debug** — to see the cloaker response \( = button test \)
 * **&secretsecretkey=bypass** — to see the money page  \( = button bypass \)
@@ -27,7 +27,7 @@ description: test and debug your campaign
 
 Depending on what site or setup you are placing the JS code, the referer might not be pass, so the bypass button \( which is adding &secretkey=bypass in the URL \) will not work
 
-Instead you need whitelist your IP \( like the other cloaker are doing \) 
+Instead you need whitelist your IP \( like the other cloaker are doing \)
 
 you do this in filter &gt; IP &gt; ip bypass
 
@@ -38,8 +38,4 @@ you do this in filter &gt; IP &gt; ip bypass
 You secret key is used to test your link.
 
 ![](../../.gitbook/assets/cleanshot-2020-09-03-at-09.50.41-2x.png)
-
-
-
-
 

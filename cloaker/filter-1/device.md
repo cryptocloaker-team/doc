@@ -4,13 +4,13 @@ description: filter based on device information
 
 # 🖥️ device
 
-## device 💻 
+## device 💻
 
 {% hint style="info" %}
 User agent filter strength is managed automatically based on the traffic score you set. 💯
 {% endhint %}
 
-## os  
+## os 
 
 You can allow or disallow a set of operating system
 
@@ -22,9 +22,9 @@ Filter browser. Add an extra layer of security when you segment your media buy b
 
 ![](../../.gitbook/assets/cleanshot-2020-07-15-at-22.00.52-2x.png)
 
-{% embed url="https://www.stetic.com/market-share/browser/" %}
+{% embed url="https://www.stetic.com/market-share/browser/" caption="" %}
 
-## language 🇹🇬 
+## language 🇹🇬
 
 check the browser language
 

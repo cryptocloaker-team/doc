@@ -2,10 +2,10 @@
 
 ## url [🔗](https://emojipedia.org/link/)
 
-whitelist or blacklist url containing some param or variable 
+whitelist or blacklist url containing some param or variable
 
 {% hint style="info" %}
-#### Example, for native source.
+### Example, for native source.
 
 * you want to whitelist \( = only allow \) url containing param `sid=`
 * You can whitelist widgets \#405 \#015 \#150  `405,015,150`
@@ -13,7 +13,7 @@ whitelist or blacklist url containing some param or variable
 {% endhint %}
 
 {% hint style="info" %}
-#### Example for search
+### Example for search
 
 * blacklist all traffic coming from keywords "cheap", "free"  :`cheap,free`
 {% endhint %}
@@ -26,17 +26,15 @@ there are three types of IP databases.
 * **internal** — our private database updated in real time. 💯
 * **custom** — you custom ip list 📝
 
-#### custom list 📝
+### custom list 📝
 
- You can set your own custom list of ip to allow / disallow
+You can set your own custom list of ip to allow / disallow
 
-list ip \( or ip range 37.169.184.\* \) separated by comma : `37.170.*,37.169.184.233` 
+list ip \( or ip range 37.169.184.\* \) separated by comma : `37.170.*,37.169.184.233`
 
 {% hint style="success" %}
 global and internal ip database strength are managed automatically based on the traffic score. 💯
 {% endhint %}
-
-
 
 ## ISP 🏢
 
@@ -54,8 +52,6 @@ These are broad categories for ISP
 These are managed automatically based on the traffic score you set. 💯
 {% endhint %}
 
-
-
 ## referer 🔙
 
 > When visiting a web page, the _referrer_ or referring page is the URL of the previous webpage from which a link was followed. More generally, a _referrer_ is the URL of a previous item which led to this request
@@ -66,8 +62,4 @@ While we make this filter available, we don't recommend using it.
 {% hint style="danger" %}
 referer filter doesn't work in JS mode
 {% endhint %}
-
-
-
-
 

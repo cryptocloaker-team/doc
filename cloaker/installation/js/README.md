@@ -6,7 +6,7 @@ description: javascript installation
 
 ## **JS cloaking**
 
-### **What are the benefits ?** 
+### **What are the benefits ?**
 
 * use on any website. You just need to be able to place a JS tag.
 * Our JS cloaking is unique because it's hybrid. \( no fingerprint \)  
@@ -25,11 +25,9 @@ description: javascript installation
 ![Cloakone JS installation](../../../.gitbook/assets/cleanshot-2020-08-27-at-18.35.51-2x.png)
 
 {% hint style="success" %}
-Unlike other cloaker, our JS integration is hybrid and don't show any fingerprint.   
+Unlike other cloaker, our JS integration is hybrid and don't show any fingerprint.  
 The fingerprinting code is only injected if visitor pass server side check.
 
 Cloakone is the first and only cloaker able to do this. \( without a php backend \)
 {% endhint %}
-
-## 
 

@@ -15,11 +15,9 @@ Once you installed your Cloakone code in a worker, attach the domain that you wa
 | Route | Match |
 | :--- | :--- |
 | domain.com/\* | cloak root domain |
-| sub.domain.com/\*  | cloak only subdomain |
+| sub.domain.com/\* | cloak only subdomain |
 | \*.domain.com/\* | to cloak all subdomains |
 | domain.com/path\* | cloak a specific path |
-
-
 
 * Choose the worker "cloakone", that we created previously, then click save.
 
@@ -27,11 +25,11 @@ Once you installed your Cloakone code in a worker, attach the domain that you wa
 
 ## Add DNS record
 
-add a A record to your domain to the route, pointing to **192.0.2.1** 
+add a A record to your domain to the route, pointing to **192.0.2.1**
 
 ![so that cloudflare map your domain to the route we created ](../../../.gitbook/assets/cleanshot-2020-09-07-at-20.48.28-2x.png)
 
-#### Examples
+### Examples
 
 {% hint style="info" %}
 * with a custom path — domain.com**/safepage/\***
@@ -41,17 +39,13 @@ add a A record to your domain to the route, pointing to **192.0.2.1**
 
 ![](../../../.gitbook/assets/cleanshot-2020-11-06-at-21.23.09-2x.png)
 
-
-
 {% hint style="info" %}
 * with a subdomain
   * route: `sub.domain.com/*`
-  * dns record:  `sub pointing to your safe page or`
+  * dns record: `sub pointing to your safe page or`
 
     `192.0.2.1`
 {% endhint %}
 
 ![](../../../.gitbook/assets/cleanshot-2020-11-06-at-21.23.01-2x.png)
-
-
 

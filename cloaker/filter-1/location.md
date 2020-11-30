@@ -21,5 +21,3 @@ This option allows you to specify what geo-locations are unavailable for your ca
 
 ## city
 
-
-

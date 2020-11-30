@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Get started](README.md)
+* [🚀 Quick start](README.md)
 
 ## Cloaker
 
@@ -39,10 +39,6 @@
 
 ## About
 
----
-
-* [😇 a cloaking story](a-cloaking-story.md)
-* [ℹ️ support](support.md)
-
-## draft <a id="filter"></a>
+* [😇 a cloaking story](about/a-cloaking-story.md)
+* [ℹ️ support](about/support.md)
 

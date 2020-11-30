@@ -4,7 +4,7 @@
 
 You can find your JS code, alongside your campaign, in view -&gt; installation. \(2\)
 
-*  It's ready to copy-paste in your safe page. \(3\) __
+* It's ready to copy-paste in your safe page. \(3\) \_\_
 * place the tag in your page, right under the &lt;body&gt; tag
 * Then you can click on the button test \(4\) to see if it's installed correctly. \(You will see cloakone debugging page\)
 

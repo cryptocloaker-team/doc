@@ -1,17 +1,15 @@
 # 🛠 installation
 
-##  Methods
+## Methods
 
 ![Choose an installation](../../.gitbook/assets/cleanshot-2020-11-15-at-13.39.10-2x.png)
 
 ![](../../.gitbook/assets/cleanshot-2020-09-03-at-13.24.05-2x.png)
 
-There are two ways to use cloakone 
+There are two ways to use cloakone
 
 * [DNS](./#dns). If you own the domain name, install Cloakone on your DNS. \(cloudflare\). Cloakone is the first cloaker that operate at the DNS level. 
 * [JS](./#js). If you are using a third-party platform for your website, and you don't own the domain, insert our JS tag in your page. 
-
-
 
 <table>
   <thead>
@@ -73,6 +71,4 @@ There are two ways to use cloakone
     </tr>
   </tbody>
 </table>
-
-
 

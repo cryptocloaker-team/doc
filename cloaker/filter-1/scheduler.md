@@ -9,7 +9,7 @@ If you are running your campaign only during specific hours, then use the schedu
 ![](../../.gitbook/assets/cleanshot-2020-09-03-at-09.54.58-2x.png)
 
 {% hint style="info" %}
-timezone is UTC, adjust the time accordingly. 
+timezone is UTC, adjust the time accordingly.
 
 **Example:**
 
@@ -20,10 +20,6 @@ timezone is UTC, adjust the time accordingly.
 {% hint style="info" %}
 Day parting is optional. If you let the fields empty, then the campaign will accept traffic at all time.
 {% endhint %}
-
-
-
-
 
 .
 
