@@ -40,5 +40,4 @@
 ## About
 
 * [😇 a cloaking story](about/a-cloaking-story.md)
-* [ℹ️ support](about/support.md)
 
