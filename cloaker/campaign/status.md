@@ -1,6 +1,6 @@
 # ✅ Status
 
-![](https://gblobscdn.gitbook.com/assets%2F-M6aL_U-UwtNMO5kQ2VX%2F-MGI0gUNcYuGWSf-0w1U%2F-MGI5bJSno5TcF8kk6ZI%2FCleanShot%202020-09-03%20at%2010.33.51%402x.png?alt=media&token=0d67cab4-592c-4050-948d-3351afc1b008)
+![](../../.gitbook/assets/status.png)
 
 **Campaign status :**‌
 

@@ -27,7 +27,7 @@ There are two ways to install the cloaker. It depends of what kind of safe pages
 
 ## How to activate your campaign ✅
 
-![](.gitbook/assets/status.png)
+![](.gitbook/assets/status%20%281%29.png)
 
 
 
