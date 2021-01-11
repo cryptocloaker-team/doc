@@ -6,13 +6,12 @@ description: test and debug your campaign
 
 ## Debug your campaign 🧪
 
-![](../../.gitbook/assets/cleanshot-2020-09-03-at-09.52.34-2x.png)
+![](../../.gitbook/assets/buttons%20%281%29.png)
 
 **Buttons**
 
 * **open** — will open your link normally
 * **bypass** — will open your link and bypass any filter, you will see money page
-* **stats** — will open your stats in standalone mode. It's useful to give stats access on campaign level to your VA or partner without sharing your login and whole access to your dashboard.
 * **test** — will load your link and show you the cloaker response and reason your are being filtered. \( You can see if you place the code successfully \) 
 
 {% hint style="info" %}
@@ -33,9 +32,5 @@ you do this in filter &gt; IP &gt; ip bypass
 
 ![](../../.gitbook/assets/cleanshot-2020-10-22-at-16.12.39-2x.png)
 
-## secret key 🔑
-
-You secret key is used to test your link.
-
-![](../../.gitbook/assets/cleanshot-2020-09-03-at-09.50.41-2x.png)
+## 
 
