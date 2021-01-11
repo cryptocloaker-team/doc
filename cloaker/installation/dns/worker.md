@@ -1,8 +1,8 @@
 # 🦾 Install the Worker
 
-**Step 1.** Copy your installation code from your dashboard. You find it in table user \(1\), view &gt; API \(2\)
+**Step 1.** Copy your installation code from your dashboard. You find it installation view
 
-![](../../../.gitbook/assets/cleanshot-2020-09-02-at-19.44.43-2x.png)
+![](../../../.gitbook/assets/screenshot_3.png)
 
 * **Step 2.** go on your **cloudflare account**, go to **worker \(1\),** and click **create a worker \(3\)**
 
