@@ -17,8 +17,6 @@
   * [✅ Status](cloaker/campaign/status.md)
   * [🧪 debug](cloaker/campaign/debug.md)
   * [✔ options](cloaker/campaign/options.md)
-  * [🧰 Plugin](cloaker/campaign/plugin.md)
-  * [🔄 Tracking](cloaker/campaign/tracker.md)
   * [⚓️ pixel](cloaker/campaign/pixel/README.md)
     * [google](cloaker/campaign/pixel/google.md)
   * [🔔 notification](cloaker/campaign/notification.md)
