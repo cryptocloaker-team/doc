@@ -2,13 +2,29 @@
 
 ## Campaign
 
-To build a campaign, go into view funnel, and plug :
+To build a campaign, go to builder page:
 
-* [filter](../filter-1/)
-* [money page](../page/money.md)
-* [safe page](../page/safe.md)
-* offer \( Pro version \) 
-* options : [tracking](tracker.md), backbutton, heatmap \( Pro version \) 
+Set the campaing name and your domain
 
-![](../../.gitbook/assets/cleanshot-2020-09-03-at-10.31.00-2x.png)
+![](../../.gitbook/assets/screenshot_4.png)
+
+**Select your filters**
+
+![](../../.gitbook/assets/builder-2.png)
+
+**Select money page**
+
+![](../../.gitbook/assets/builder-3.png)
+
+**Set Safe page settings**
+
+![](../../.gitbook/assets/builder-4.png)
+
+**Choose installation type**
+
+![](../../.gitbook/assets/bulder-5.png)
+
+**Review your campaing**
+
+![](../../.gitbook/assets/builder-6.png)
 
