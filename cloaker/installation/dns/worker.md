@@ -2,7 +2,7 @@
 
 **Step 1.** Copy your installation code from your dashboard. You find it installation view
 
-![](../../../.gitbook/assets/screenshot_3.png)
+![](../../../.gitbook/assets/screenshot_3%20%281%29.png)
 
 * **Step 2.** go on your **cloudflare account**, go to **worker \(1\),** and click **create a worker \(3\)**
 
