@@ -18,7 +18,7 @@ description: javascript installation
 ### How to use it  📖
 
 * [copy paste your installation code in your page](installation.md) 📋
-* [optionally, proxy the JS with your own domain](custom-domain.md) 🌐
+* [optionally, proxy the JS with your own domain]() 🌐
 
 ### How it works 🕵️‍♀️
 

@@ -11,7 +11,6 @@
     * [👻 Shadow mode](cloaker/installation/dns/advanced.md)
   * [📋 JS](cloaker/installation/js/README.md)
     * [🛠 Installation](cloaker/installation/js/installation.md)
-    * [🌐 Custom domain](cloaker/installation/js/custom-domain.md)
     * [Troubleshoot](cloaker/installation/js/troubleshoot.md)
 * [🚀 Campaign](cloaker/campaign/README.md)
   * [✅ Status](cloaker/campaign/status.md)
