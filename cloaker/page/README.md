@@ -1,6 +1,6 @@
 # 🌅 page
 
-![](../../.gitbook/assets/screenshot_7.png)
+![](../../.gitbook/assets/page.png)
 
 ## What is it?
 
